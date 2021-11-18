@@ -2,4 +2,4 @@ This repository accompanies my blog post "[Building multi-architecture images wi
 
 [post]: https://blog.oddbit.com/post/2020-09-25-building-multi-architecture-im/
 
-Test1
+Test2
